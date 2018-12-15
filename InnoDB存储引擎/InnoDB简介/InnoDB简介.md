@@ -1,4 +1,4 @@
-# 14.1 InnoDB
+# 14.1 InnoDB 简介
 * 14.1.1 使用InnoDB表的优势
 * 14.1.2 使用InnoDB表的最佳实践
 * 14.1.3 检查InnoDB的可用性
