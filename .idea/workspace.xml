@@ -78,7 +78,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="500">
-                <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+                <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor>
@@ -88,12 +88,27 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="InnoDB多版本.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="InnoDB多版本.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/InnoDB存储引擎/InnoDB多版本.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="573">
-                <caret line="23" column="52" lean-forward="false" selection-start-line="23" selection-start-column="52" selection-end-line="23" selection-end-column="52" />
+              <first_editor relative-caret-position="553">
+                <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor>
+                <js_state />
+              </second_editor>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="InnoDB架构.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/InnoDB架构.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="80">
+                <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor>
@@ -150,6 +165,7 @@
         <option value="$PROJECT_DIR$/InnoDB存储引擎/InnoDB简介/不使用InnoDB.md" />
         <option value="$PROJECT_DIR$/InnoDB存储引擎/InnoDB简介/InnoDB和ACID模型.md" />
         <option value="$PROJECT_DIR$/InnoDB存储引擎/InnoDB多版本.md" />
+        <option value="$PROJECT_DIR$/InnoDB架构.md" />
       </list>
     </option>
   </component>
@@ -186,11 +202,6 @@
             <path>
               <item name="mysql5.6-" type="b2602c69:ProjectViewProjectNode" />
               <item name="mysql5.6-" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mysql5.6-" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mysql5.6-" type="462c0819:PsiDirectoryNode" />
-              <item name="InnoDB存储引擎" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -386,7 +397,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="500">
-            <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+            <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor>
@@ -398,8 +409,21 @@
     <entry file="file://$PROJECT_DIR$/InnoDB存储引擎/InnoDB多版本.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="573">
-            <caret line="23" column="52" lean-forward="false" selection-start-line="23" selection-start-column="52" selection-end-line="23" selection-end-column="52" />
+          <first_editor relative-caret-position="553">
+            <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/InnoDB架构.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="80">
+            <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor>
